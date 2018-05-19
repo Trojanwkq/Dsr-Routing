@@ -1,0 +1,22 @@
+Good morning teacher and everybody ,The topic of my presentation is Negotiation strategy,i have listed 6 points that i think is important about this topic.
+now i begin to deliver them.
+
+that is all , thank you
+
+
+raft
+leveldb
+
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+        while(scan.hasNext()){
+            
+        }
+    }
+}
+
+该课程系统介绍辩证唯物主义的自然观，着重讨论辩证唯物主义的存在论和演化论以及人与自然的关系；系统介绍辩证唯物主义的方法论，着重分析科学问题的主要类型和科研选题的基本原则以及自科学技术研究中主要方法的哲学基础；系统介绍辩证唯物主义的科学观、技术观和工程观，着重探讨科学、技术与工程的本质和科学与技术的关系以及科学技术发展的基本模式和影响科学技术和工程发展的内部原因和外部原因。 
+
+xiugai
